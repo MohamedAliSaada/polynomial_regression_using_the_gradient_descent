@@ -34,4 +34,5 @@ This repository contains a Python implementation of a polynomial regression mode
    ![Module](https://github.com/MohamedAliSaada/polynomial_regression_using_the_gradient_descent/blob/main/Module_results.png)
    Example output of the polynomial equation:
    ```python
-   Real scale polynomial equation: y_pred_ = 123.45 + 2.56x + 3.78x^2 + 4.90x^3 + 5.67x^4
+   Real scale polynomial equation: y_pred_ = 1.0504956607470586 +3.4524312154756442x + 0.3964276919139884x^2 + 0.20228828369409663x^3 +
+     0.0012742767868124203x^4
