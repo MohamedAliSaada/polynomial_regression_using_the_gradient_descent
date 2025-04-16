@@ -31,7 +31,7 @@ This repository contains a Python implementation of a polynomial regression mode
 
 6. **Final Model**:
    - After training, the weights and bias are transformed back to the original scale of the features using reverse scaling. The final polynomial equation is printed, showing the relationship between `Y` and `X` in its real scale.
-
+   ![Module](https://github.com/MohamedAliSaada/polynomial_regression_using_the_gradient_descent/blob/main/Module_results.png)
    Example output of the polynomial equation:
    ```python
    Real scale polynomial equation: y_pred_ = 123.45 + 2.56x + 3.78x^2 + 4.90x^3 + 5.67x^4
